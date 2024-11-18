@@ -1,0 +1,16 @@
+
+/* centramos el titulo principal de la pagina */
+h1  {
+    text-align: center;
+}
+
+/* Le cambiamos el fondo background a todo el body de la pagina*/
+body {
+    background-color: lightsteelblue;
+}
+
+/* Centramos el body de la pagina a 500px por medio de n div id estilo*/
+#estilo {
+    width: 90%;
+}
+
